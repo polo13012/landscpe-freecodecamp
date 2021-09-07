@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landscape</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main id="main"><div class="container">
+        <div id="title">
+          <h1>Dr. Norman Borlaug</h1>
+        <h3>The man who saved a billion lives</h3></div>
+        <div id="img-div">
+          <figure>
+          <img id="image"src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"alt="">
+          <figcaption id="img-caption">Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger
+            </figcaption></figure>
+      
+           </div>
+        <ul>   <h2>Here's a time line of Dr. Borlaug's life:</h2>
+          <li> 1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration" </li>
+          <li>1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"  </li>
+          <li> 1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration" </li>
+          <li> 1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration" </li>
+          <li> 1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration" </li>
+          <li> 1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration" </li>
+          <li> 1933 - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration" </li>
+          
+        
+       <p id="tribute-info"> "Borlaug's life and achievement are testimony to the far-reaching<br>
+         contribution that one man's towering intellect, persistence and <br>
+         scientific vision can make to human peace and progress."</p>
+          <p> If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">wikipédia entry</a></p></ul>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </main>
+    
+</body>
+</html>
